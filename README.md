@@ -1,4 +1,4 @@
-# Residual-Squeeze-VGG16-
+# Residual-Squeeze-VGG16
 Compressed Residual-VGG16 CNN Model for Big Data Places Image Recognition
 
 Deep learning has given way to a new era of machine learning,
