@@ -1,5 +1,4 @@
-# Residual-Squeeze-VGG16
-Compressed Residual-VGG16 CNN Model for Big Data Places Image Recognition
+# Compressed Residual-VGG16 CNN Model for Big Data Places Image Recognition
 
 Deep learning has given way to a new era of machine learning,
 apart from computer vision. Convolutional neural networks have
@@ -27,4 +26,4 @@ network models Broader impact of our work could improve the
 performance in specialized tasks such as video-based surveillance,
 self-driving cars, and mobile GPU applications.
 
-Please cite the original paper: https://arxiv.org/abs/1705.03004
+Please cite the original paper: Compressed residual-VGG16 CNN model for big data places image recognition (Accepted in IEEE 8th Annual Computing and Communication Workshop and Conference (CCWC), Las Vegas, NV, USA in Jan. 2018) https://ieeexplore.ieee.org/document/8301729
